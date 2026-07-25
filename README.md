@@ -128,6 +128,8 @@ Users can:
 - Streamlit
 - Matplotlib
 - Seaborn
+  
+<img width="1536" height="1024" alt="img" src="https://github.com/user-attachments/assets/58c071e3-1162-4f63-be60-87aaaeae76ec" />
 
 
 
